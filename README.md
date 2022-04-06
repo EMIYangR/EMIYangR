@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EMIYang10627
+- 👋 Hi, I’m EMIYang
 - 👀 I’m interested in E-Sports,Games and Music
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
