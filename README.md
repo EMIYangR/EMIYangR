@@ -1,8 +1,8 @@
-- 👋 Hi, I’m EMIYang
-- 👀 I’m interested in E-Sports,Games and Music
-- 🌱 I’m currently learning Java,C#,Python and HTML
+- 👋 Hi, I’m EMI Yang
+- 👀 I’m interested in E-Sports, Movie, Games and Music
+- 🌱 I’m currently learning Java, C#, Python, ASP.NET, Vue.js and HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 Contact me at emi1998@qq.com
+- 📫 Contact me at Admin@emiculture.onmicrosoft.com
 
 <!---
 EMIYang10627/EMIYang10627 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
